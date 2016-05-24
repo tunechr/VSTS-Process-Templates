@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-16"?>
 <witd:WITD application="Work item type editor" version="1.0" xmlns:witd="http://schemas.microsoft.com/VisualStudio/2008/workitemtracking/typedef">
   <WORKITEMTYPE name="Initiative" refname="Microsoft.VSTS.WorkItemTypes.Epic">
-    <DESCRIPTION>Epics help teams effectively manage and groom their product backlog</DESCRIPTION>
+    <DESCRIPTION>Initiatives help program managers to effectively manage and organize work across several teams</DESCRIPTION>
     <FIELDS>
       <FIELD name="Id" refname="System.Id" type="Integer" reportable="dimension" />
       <FIELD name="Title" refname="System.Title" type="String" reportable="dimension">
